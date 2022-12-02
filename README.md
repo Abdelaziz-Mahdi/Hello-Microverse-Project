@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -70,11 +70,6 @@ To get a local copy up and running, Clone this repository to your desired folder
 - Twitter: [@twitterhandle](https://twitter.com/AbdelazizDV)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdelaziz-ali-dev)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -106,8 +101,6 @@ Templetes used in project provided by (Microverse).
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Do i have to changes to this template before using it?]**
 
